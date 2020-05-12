@@ -1,0 +1,2 @@
+# Ignore the config.php file to prevent configurations and passwords from being committed
+config.php
